@@ -36,23 +36,29 @@
 .inverse tr:nth-child(even) {
   background-color: #555;
 }
+
 body{
   font-family: 'Arial'
 }
 
-h1, h2, h3, h4 {
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
     font-family: 'Arial';
     font-weight: normal;
 }
 
-.remark-slide-content h2 {
+.reveal h1 {
+  color: #E6002E;
+  font-size: 32pt;
+}
+
+.reveal h2 {
   color: #E6002E;
   font-size: 28pt;
 }
 
-.remark-slide-content h3 {
+.reveal h3 {
   color: #8b8b8b;
-  font-size: 20pt;
+  font-size: 24pt;
 }
 
 .remark-slide-number {

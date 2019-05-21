@@ -85,7 +85,28 @@ mydocument2016-01-08.docx
 * Verwalten von Konflikten zwischen Versionen
 * Wiederherstellen von Änderungen durch 'Rückspulen'
 
+Versionskontrolle ist nicht für alle Dokumente erforderlich. Für umfangreiche Arbeiten wie Artikel, Bücher oder Dissertationen ist die Versionskontrolle jedoch sehr sinnvoll.
+
+<!--s-->
+
+## Was sind Git und GitHub?
+* Oft synonym verwendet, **Git** und **GitHub** sind jedoch zwei verschiedene Dinge
+  - **Git** ist eine spezielle Implementierung der Versionskontrolle, ursprünglich von Linus Torvalds zur Verwaltung des Linux-Quellcodes entwickelt (Es gibt andere Systeme der Versionskontrolle)
+  - **GitHub** ist ein Unternehmen, das Git Repositories hostet. GitHub ist derzeit der beliebteste Host von Open-Source-Projekten, wurde allerdings von Microsoft übernommen
+
+<!--s-->
+
+## Warum nicht Dropbox oder Google Drive verwenden?
+Dropbox, Google Drive und andere Dienste bieten auch eine Art Versionskontrolle an. Dies kann ausreichen. Ein Versionskontrollsystems wie Git hat jedoch Vorteile:
+
+- **Sprachunterstützung**: Git unterstützt sowohl Text als auch Programmiersprachen.
+  - digitale Techniken und Werkzeuge immer wichtiger, daher sinnvoll, sowohl die "traditionellen" Formen (Zeitschriftenartikel, Bücher usw.) als auch neueren (Code, Datensätze usw.) zu verwalten und zu teilen
+- **Mehr Kontrolle**: Eine korrekte Versionskontrolle gibt Ihnen eine viel größere Kontrolle darüber, wie Sie Änderungen in einem Dokument verwalten.
+- **Nützliche Historie**: Die Verwendung von Versionskontrollsystemen wie Git ermöglicht es Ihnen, eine Historie Ihres Dokuments zu erstellen
+
 <!--v-->
+
+
 
 # References
 

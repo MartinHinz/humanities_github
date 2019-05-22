@@ -1,5 +1,5 @@
 ---
-title: Slides Template
+title: Der Versionshölle entfliehen – Github als Werkzeug in den Geisteswissenschaften
 separator: <!--s-->
 verticalSeparator: <!--v-->
 theme: white
@@ -11,7 +11,11 @@ revealOptions:
 <link rel="stylesheet" href="css/customize.css" id="theme">
 <link rel="stylesheet" href="css/default-fonts.css" id="theme">
 
-# Inhalt
+# Der Versionshölle entfliehen – Github als Werkzeug in den Geisteswissenschaften
+
+<!--s-->
+
+## Inhalt
 
 * was Versionskontrolle ist und warum sie nützlich sein kann
 * wie Versionskontrolle beim akademischen Schreiben nützlich sein kann
@@ -20,7 +24,7 @@ revealOptions:
 
 <!--s-->
 
-# Ausgangspunkt
+## Ausgangspunkt
 
 ![](images/joy.jpg)<!-- .element height="50%" width="50%" -->
 
@@ -204,18 +208,20 @@ Sie können GitHub Desktop hier herunterladen. Nachdem Sie die Datei heruntergel
 <!--s-->
 ## Weitere Themen
 
-- Konfliktlösung
-- Github Pages
+- [Konfliktlösung](https://programminghistorian.org/en/lessons/getting-started-with-github-desktop#managing-conflicts)
+- [Pull Requests](https://help.github.com/en/articles/about-pull-requests)
+- [Github Pages](https://pages.github.com/)
 - Präsentationen
   - Diese Präsentation wurde mit Git und Github erstellt
   - Repo: [https://github.com/MartinHinz/humanities_github](https://github.com/MartinHinz/humanities_github)
-  - Präsentation: []()
+  - Präsentation: [https://martinhinz.github.io/humanities_github](https://martinhinz.github.io/humanities_github)
 
 <!--v-->
 # References
 
-* [reveal-md](https://github.com/webpro/reveal-md)
-* [reveal.js](http://lab.hakim.se/reveal-js)
+* Basis dieser Einführung: [The Programming Historian](https://programminghistorian.org/en/lessons/getting-started-with-github-desktop#managing-conflicts)
+* Spiel-Repo dieser Einführung: []()
+* [Git](https://git-scm.com/)
+* [git - Der einfache Einstieg](https://rogerdudler.github.io/git-guide/index.de.html)
+* [GitHub](https://github.com/)
 * [GitHub Pages](https://pages.github.com)
-* [Travis CI](https://travis-ci.org)
-* [This template](https://github.com/martinmurphy/slidestemplate)

@@ -7,6 +7,10 @@ revealOptions:
     transition: 'convex'
 ---
 
+<link rel="stylesheet" href="./assets/css/style.css">
+<link rel="stylesheet" href="./assets/css/customize.css">
+<link rel="stylesheet" href="./assets/css/default-fonts.css">
+
 # Der Versionshölle entfliehen
 ## Github als Werkzeug in den Geisteswissenschaften
 

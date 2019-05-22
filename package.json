@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "presentation": "reveal-md slides.md --css css/style.css,css/customize.css,css/default-fonts.css",
-    "generate": "reveal-md slides.md --static docs --css css/style.css,css/customize.css,css/default-fonts.css --static-dirs=images"
+    "generate": "reveal-md slides.md --css css/style.css,css/customize.css,css/default-fonts.css --static docs"
   },
   "repository": {
     "type": "git",

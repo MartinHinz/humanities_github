@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/martinmurphy/slidestemplate#readme",
   "devDependencies": {
-    "reveal-md": "^3.0.4"
+    "reveal-md": "^2.4.1"
   }
 }

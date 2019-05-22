@@ -7,11 +7,8 @@ revealOptions:
     transition: 'convex'
 ---
 
-<link rel="stylesheet" href="css/style.css" id="theme">
-<link rel="stylesheet" href="css/customize.css" id="theme">
-<link rel="stylesheet" href="css/default-fonts.css" id="theme">
-
-# Der Versionshölle entfliehen – Github als Werkzeug in den Geisteswissenschaften
+# Der Versionshölle entfliehen
+## Github als Werkzeug in den Geisteswissenschaften
 
 <!--s-->
 

@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/martinmurphy/slidestemplate#readme",
   "devDependencies": {
-    "reveal-md": "^0.4.2"
+    "braces": "^2.3.2",
+    "puppeteer": "^1.16.0",
+    "reveal-md": "^3.0.4"
   }
 }

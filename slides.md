@@ -104,10 +104,114 @@ Dropbox, Google Drive und andere Dienste bieten auch eine Art Versionskontrolle 
 - **Mehr Kontrolle**: Eine korrekte Versionskontrolle gibt Ihnen eine viel größere Kontrolle darüber, wie Sie Änderungen in einem Dokument verwalten.
 - **Nützliche Historie**: Die Verwendung von Versionskontrollsystemen wie Git ermöglicht es Ihnen, eine Historie Ihres Dokuments zu erstellen
 
+<!--s-->
+
+## Textdokumente
+
+Versionskontrollsysteme wie Git funktionieren am besten mit reinen Textdateien.
+
+**Vorteile**:
+- 'Portabilität': Sie funktionieren auf fast jedem Computer
+
+**Nachteil**:
+- Eingeschränkte Formatierungsmöglichkeiten
+
+**Markdown**:
+- Eine einfache Formatierungssprache für Textdateien
+  - Überschriften/Fettung/Kursiv/Links sind möglich
+  - Mit Zusatzelementen Literaturverwaltung einbaubar
+- [Grundlegende Einführung](https://programminghistorian.org/en/lessons/getting-started-with-markdown)
+- [Wissenschaftliches Schreiben](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
+
+<!--s-->
+
+## GitHub Account
+
+Da wir GitHub verwenden werden, müssen wir uns für ein Konto bei [GitHub](https://github.com/) registrieren, wenn wir noch kein Konto haben. Für [Studierende](https://education.github.com/pack) und [Forschende](https://github.blog/2014-05-14-improving-github-for-science/) bietet GitHub kostenlose private Repositorien an. Diese sind nicht notwendig, können aber interessant sein, wenn Sie etwas von Ihrer Arbeit vertraulich behandeln wollen.
+
+<!--s-->
+## GitHub Desktop
+GitHub Desktop ermöglicht es, die Versionskontrolle einfach zu benutzen. GitHub Desktop bietet eine grafische Benutzeroberfläche (GUI) zur Verwendung von Git.
+
+(Coole Frauen und Männer ohne Unterwäsche benutzen die Kommandozeile...)
+
+Sie können GitHub Desktop hier herunterladen. Nachdem Sie die Datei heruntergeladen haben, entpacken Sie sie und öffnen Sie die App, indem Sie den Anweisungen zum Einloggen in Ihr GitHub-Konto folgen. Nachdem Sie GitHub Desktop installiert haben, können wir die Software verwenden.
+
+<!--s-->
+
+## GitHub Desktop starten
+
+![](images/gh_desktop_start.png)
+
+<!--s-->
+
+## Neues Repository erstellen
+
+![](images/gh_desktop_start_new_repo.png)
+
+<!--s-->
+
+## Repository veröffentlichen
+
+![](images/gh_desktop_publish_repo.png)<!-- .element: class="pull-left" -->
+
+![](images/blank_repo_on_gh.png)<!-- .element: class="pull-right" -->
+
+<!--s-->
+
+## Workflow
+
+- Pull
+- Edit
+- Commit
+- Push
+
+<!--s-->
+
+## Text Datei anlegen und Committen
+
+![](images/gh_desktop_first_commit.png)<!-- .element: class="pull-left" -->
+
+![](images/blank_repo_on_gh.png)<!-- .element: class="pull-right" -->
+
+<!--s-->
+
+## Commit pushen
+
+![](images/gh_desktop_first_push.png)<!-- .element: class="pull-left" -->
+
+![](images/gh_result_push.png)<!-- .element: class="pull-right" -->
+
+<!--s-->
+
+## Neu editieren, committen und pushen
+
+![](images/gh_desktop_second_commit.png)<!-- .element: class="pull-left" -->
+
+![](images/gh_result_second_push.png)<!-- .element: class="pull-right" -->
+
+<!--s-->
+
+## History
+
+![](images/gh_result_second_push.png)
+
+<!--s-->
+## Branching
+
+![](images/basic-merging-2.png)
+
+<!--s-->
+## Weitere Themen
+
+- Konfliktlösung
+- Github Pages
+- Präsentationen
+  - Diese Präsentation wurde mit Git und Github erstellt
+  - Repo: [https://github.com/MartinHinz/humanities_github](https://github.com/MartinHinz/humanities_github)
+  - Präsentation: []()
+
 <!--v-->
-
-
-
 # References
 
 * [reveal-md](https://github.com/webpro/reveal-md)

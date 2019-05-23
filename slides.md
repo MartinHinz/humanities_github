@@ -140,7 +140,7 @@ GitHub Desktop ermöglicht es, die Versionskontrolle einfach zu benutzen. GitHub
 
 (Coole Frauen und Männer ohne Unterwäsche benutzen die Kommandozeile...)
 
-Sie können GitHub Desktop hier herunterladen. Nachdem Sie die Datei heruntergeladen haben, entpacken Sie sie und öffnen Sie die App, indem Sie den Anweisungen zum Einloggen in Ihr GitHub-Konto folgen. Nachdem Sie GitHub Desktop installiert haben, können wir die Software verwenden.
+Sie können [GitHub Desktop hier herunterladen](https://desktop.github.com/). Während des Starts wird zum Einloggen in Ihr GitHub-Konto aufgefordert.
 
 <!--s-->
 

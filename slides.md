@@ -138,7 +138,16 @@ Da wir GitHub verwenden werden, müssen wir uns für ein Konto bei [GitHub](http
 ## GitHub Desktop
 GitHub Desktop ermöglicht es, die Versionskontrolle einfach zu benutzen. GitHub Desktop bietet eine grafische Benutzeroberfläche (GUI) zur Verwendung von Git.
 
+![](images/github-desktop-screenshot-windows.png)<!-- .element: class="pull-left" -->
+<div class="pull-right">
 (Coole Frauen und Männer ohne Unterwäsche benutzen die Kommandozeile...)
+<pre>
+<code class="hljs stylus">git status
+git add .
+git commit -m "added link to github desktop"
+git push</code>
+</pre>
+</div>
 
 Sie können [GitHub Desktop hier herunterladen](https://desktop.github.com/). Während des Starts wird zum Einloggen in Ihr GitHub-Konto aufgefordert.
 

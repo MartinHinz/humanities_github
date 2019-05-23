@@ -134,6 +134,7 @@ Versionskontrollsysteme wie Git funktionieren am besten mit reinen Textdateien.
 
 Da wir GitHub verwenden werden, müssen wir uns für ein Konto bei [GitHub](https://github.com/) registrieren, wenn wir noch kein Konto haben. Für [Studierende](https://education.github.com/pack) und [Forschende](https://github.blog/2014-05-14-improving-github-for-science/) bietet GitHub kostenlose private Repositorien an. Diese sind nicht notwendig, können aber interessant sein, wenn Sie etwas von Ihrer Arbeit vertraulich behandeln wollen.
 
+[Screencast "How to sign up at GitHub"](https://tube.switch.ch/videos/d1b24553)
 <!--s-->
 ## GitHub Desktop
 GitHub Desktop ermöglicht es, die Versionskontrolle einfach zu benutzen. GitHub Desktop bietet eine grafische Benutzeroberfläche (GUI) zur Verwendung von Git.
@@ -230,7 +231,7 @@ Sie können [GitHub Desktop hier herunterladen](https://desktop.github.com/). W�
 # References
 
 * Basis dieser Einführung: [The Programming Historian](https://programminghistorian.org/en/lessons/getting-started-with-github-desktop#managing-conflicts)
-* Spiel-Repo dieser Einführung: []()
+* Spiel-Repo dieser Einführung: [https://github.com/MartinHinz/my_super_article](https://github.com/MartinHinz/my_super_article)
 * [Git](https://git-scm.com/)
 * [git - Der einfache Einstieg](https://rogerdudler.github.io/git-guide/index.de.html)
 * [GitHub](https://github.com/)
